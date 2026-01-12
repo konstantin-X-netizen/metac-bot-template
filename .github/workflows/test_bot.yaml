@@ -1,4 +1,4 @@
-name: Test Bot
+name: Test Bot KoKe
 
 on:
   workflow_dispatch:
